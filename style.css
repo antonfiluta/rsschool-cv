@@ -1,1 +1,9 @@
-.css
+.firstul {
+  text-transform: uppercase;
+}
+.main_content {
+  font-family: Lucida Console;
+}
+body{
+  backgrond-color: #dbe6d5;
+}
